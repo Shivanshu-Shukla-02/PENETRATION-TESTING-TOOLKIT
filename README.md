@@ -115,3 +115,17 @@ This toolkit serves as a valuable resource for individuals looking to enhance th
 
 **OUTPUT**
 
+C:\Users\Shivanshu\JavaCodes> cmd /C ""C:\Program Files\Java\jdk-23\bin\java.exe" --enable-preview -XX:+ShowCodeDetailsInExceptionMessages -cp C:\Users\Shivanshu\AppData\Roaming\Code\User\workspaceStorage\db2e95bb8fdda292675570587e61ce25\redhat.java\jdt_ws\JavaCodes_efc6e467\bin PenetrationToolkit "
+Welcome to the Penetration Testing Toolkit
+1. Port Scanner
+2. Brute Forcer
+Enter your choice: 2
+Enter the target IP: 30003
+Enter the target port: 2202
+Enter the username: Shivanshu Shukla
+Enter the path to the password file: Shukl@
+Starting brute force attack on 30003:2202
+Error reading password file: Shukl@ (The system cannot find the file specified)
+Brute force attack completed. No valid credentials found.
+
+
